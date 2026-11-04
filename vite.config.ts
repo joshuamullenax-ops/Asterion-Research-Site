@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Asterion-Research-Site/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
