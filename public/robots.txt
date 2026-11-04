@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asterion-research-980127554307.us-west1.run.app/sitemap.xml

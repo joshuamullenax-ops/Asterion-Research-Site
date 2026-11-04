@@ -1,0 +1,6 @@
+{
+  "name": "Asterion Institutional Research",
+  "description": "Institutional-grade financial intelligence, sector deep-dives, and proprietary equity ratings from our global analyst team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
