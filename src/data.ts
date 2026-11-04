@@ -27,7 +27,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://drive.google.com/file/d/1eHssoOSVk_XEn9qUOklOVC3GVWBAEnYl/view?usp=sharing",
     targetPrice: "$100",
     impliedUpside: "+38%",
-    image: "/companies/transmedics.svg"
+    image: "companies/transmedics.svg"
   },
   {
     id: "transmedics-2024",
@@ -55,7 +55,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://drive.google.com/file/d/1QjG4TCxj8BbvkmQWPSPjl1CvtcnqhW-T/view?usp=drive_link",
     targetPrice: "$100",
     impliedUpside: "+38%",
-    image: "/companies/transmedics.svg"
+    image: "companies/transmedics.svg"
   },
   {
     id: "transmedics-presentation",
@@ -81,7 +81,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://drive.google.com/file/d/1-lxKjeh5pv2BhMC59nly47ECnmXKBbNi/view?usp=drive_link",
     targetPrice: "$100",
     impliedUpside: "+38%",
-    image: "/companies/transmedics.svg"
+    image: "companies/transmedics.svg"
   },
   {
     id: "netflix-2024",
@@ -108,7 +108,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://drive.google.com/file/d/1GfK3OlBr5W-7z1GL6Bq3nAWYR26nwE6n/view?usp=drive_link",
     targetPrice: "$102.91",
     impliedUpside: "+35.53%",
-    image: "/companies/netflix.svg"
+    image: "companies/netflix.svg"
   },
   {
     id: "arista-2024",
@@ -135,7 +135,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://drive.google.com/file/d/1JjvOdOHoHs3ipLLp6xn3eIF_E5QrjY6J/view?usp=drive_link",
     targetPrice: "$86.23",
     impliedUpside: "-32.9%",
-    image: "/companies/arista.svg"
+    image: "companies/arista.svg"
   },
   {
     id: "vertiv-2024",
@@ -163,7 +163,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://www.canva.com/design/DAG38CQKKlc/IPppaqvGxLOrCh5XMmkp9g/view?utm_content=DAG38CQKKlc&utm_campaign=designshare&utm_medium=link&utm_source=viewer",
     targetPrice: "$196.44",
     impliedUpside: "Wait for $164 Entry",
-    image: "/companies/vertiv.svg"
+    image: "companies/vertiv.svg"
   },
   {
     id: "first-solar-2024",
@@ -191,7 +191,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://www.canva.com/design/DAG3-nZSC-Y/JkSWyOy0Zncb_WwcRdWt9A/view?utm_content=DAG3-nZSC-Y&utm_campaign=designshare&utm_medium=link&utm_source=viewer",
     targetPrice: "$258.17",
     impliedUpside: "+32.30%",
-    image: "/companies/firstsolar.svg"
+    image: "companies/firstsolar.svg"
   },
   {
     id: "meta-presentation-2026",
@@ -219,7 +219,7 @@ export const REPORTS: Report[] = [
     driveUrl: "https://drive.google.com/file/d/1su7f97biI80urxWMsBNV_lGr-9M2t5ZZ/view?usp=sharing",
     targetPrice: "$820.48",
     impliedUpside: "+21.55%",
-    image: "/companies/meta.svg"
+    image: "companies/meta.svg"
   },
   {
     id: "sofi-equity-report-2026",
@@ -243,7 +243,7 @@ export const REPORTS: Report[] = [
     targetPrice: "Coming October 2026",
     impliedUpside: "Coming October 2026",
     isComingSoon: true,
-    image: "/companies/sofi.svg"
+    image: "companies/sofi.svg"
   }
 ];
 
